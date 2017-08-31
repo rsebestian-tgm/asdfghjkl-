@@ -13,7 +13,7 @@ public boolean isWahrheit() {
 	return wahrheit;
 }
 public void setWahrheit(boolean wahrheit) {
-	this.wahrheit = wahrheit; //asfdgh
+	this.wahrheit = wahrheit; //asfdghfghj
 }
 
 }
